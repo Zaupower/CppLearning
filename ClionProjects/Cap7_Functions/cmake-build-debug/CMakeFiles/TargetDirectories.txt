@@ -1,0 +1,3 @@
+/home/marcelo/Documents/Learning/CppLearning/ClionProjects/Cap7_Functions/cmake-build-debug/CMakeFiles/Cap8_Functions.dir
+/home/marcelo/Documents/Learning/CppLearning/ClionProjects/Cap7_Functions/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcelo/Documents/Learning/CppLearning/ClionProjects/Cap7_Functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

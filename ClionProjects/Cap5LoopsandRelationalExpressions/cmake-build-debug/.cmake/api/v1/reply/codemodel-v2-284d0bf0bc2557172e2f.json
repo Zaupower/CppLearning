@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Cap5LoopsandRelationalExpressions",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Cap5LoopsandRelationalExpressions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Cap5LoopsandRelationalExpressions-Debug-c0521c98383a61a993db.json",
+					"name" : "Cap5LoopsandRelationalExpressions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/marcelo/CLionProjects/Cap5LoopsandRelationalExpressions/cmake-build-debug",
+		"source" : "/home/marcelo/CLionProjects/Cap5LoopsandRelationalExpressions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
