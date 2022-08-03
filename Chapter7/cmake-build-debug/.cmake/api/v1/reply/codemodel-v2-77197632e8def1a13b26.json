@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Chapter7",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Chapter7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Chapter7-Debug-55ee6fae5713013bf73f.json",
+					"name" : "Chapter7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Listing7_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Listing7_1-Debug-898b6b930526ff4691fd.json",
+					"name" : "Listing7_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Lotto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Lotto-Debug-7af665b29fa33c632138.json",
+					"name" : "Lotto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Protos::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Protos-Debug-23a295f7720c37338cbb.json",
+					"name" : "Protos",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Twoarg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Twoarg-Debug-9fc25122aab4cc81e6db.json",
+					"name" : "Twoarg",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug",
+		"source" : "/home/marcelo/Documents/Learning/CppLearning/Chapter7"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

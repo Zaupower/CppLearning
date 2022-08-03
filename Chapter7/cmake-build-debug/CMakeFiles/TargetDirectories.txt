@@ -1,0 +1,7 @@
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/Listing7_1.dir
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/Protos.dir
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/Twoarg.dir
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/Lotto.dir
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/Chapter7.dir
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/marcelo/Documents/Learning/CppLearning/Chapter7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
